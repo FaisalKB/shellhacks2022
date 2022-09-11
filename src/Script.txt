@@ -1,0 +1,66 @@
+Please change whatever you would like to; this is merely a jumping off point
+
+INTRODUCTION
+    Hello! We are a team of three! We are Emma, Jose, and Faisal! When we first set off on this project, we wanted
+    to focus on something that is actually affecting people today to see if we coukd put something together that could
+    alleviate that pain point. We landed on parents and their access to their students school life. 
+
+PAIN POINT
+    - As a school district, we are responsible for the access our parents have to the involvement
+    what happens on our camppuses. We understand the reality of some of our parents who work two 
+    maybe even three jobs and who cannot afford the time to come out to campus to tell us what they
+    think of the decisions we are making. 
+    -That is why we built this website. At the core of this website is accessibility for our parents 
+    we hope that parents can log onto this website after a long day and find just the right information
+    they need
+    - Lastly we know that some parents cannot always voice their opinions because quite frankly, they are 
+    busy with work. Let us show you how we solved some of these pressing issues to give the information 
+    and the voice back to our parents  
+
+
+THE ADMIN HUB
+    -The admin hub was designed to empower parents to share their perspective on some of the questions the
+    school and the community are trying to understand. 
+    
+    VOTING FEATURE
+        -From understanding what day works best for most of our parents to make it out to Teach/Parent Night to 
+        what food the community wants to see at the school fair, our voting feature allows our parents to quickly 
+        share their vote with us so we can make informed decisions
+
+    SCHOOL MEETING SUMMARIES
+        -We understand how important transparency is in building a trusting relationship with our community. We 
+        want our community to see front and center that we always put student well being and student success at 
+        the center of the decisions we make  
+
+
+DASHBOARD
+    -The website was designed with the parent perspective. That is why we have created the dashboard. A place where 
+    they can find a lot of the most important information they need. Some highlights include: 
+        1. The announcements section to get caught up really quickly
+        2. The quick poll feature allows parents to quickly share their opinion
+        3. Your students grades for when you want to quickly check in on how they are doing 
+
+RESOURCES
+    -The resources page is aimed at giving the community at large the resources and links that they need to 
+    make informed decisions with and for their students. You can find everything from school related resources 
+    school district related ones
+
+
+TEACHER COMMUNITY
+    -The teacher community section is truly aimed at getting teachers and parents connected. As you can see the
+    teacher posted a very important message about parents making sure that they submit the permission slip so that 
+    their student can attend the trip to the zoo. On top of that, the parent does not need to send a physical copy 
+    with their student, they can simply click on the link to submit the form online. This level of communication and
+    access is a game changer to engaging our studnets in extracurriculars. Just think about all the cool posts teachers
+    can share with parents!
+
+PARENT COMMUNITY
+    The parent community section of our page is really aimed at encouraging our parents to build community and support 
+    systems with each other. As you can see, Jane has already submitted a post inviting all parents to come out to hang
+    out at the park! 
+
+CONCLUSION
+    We hope you can see the value of Parent Connect. We set off to connect our parents with their teacher, with their administrators, 
+    with each other, and with the success of their students. At the end of the day, if just one parent is having a hard time 
+    connecting with the school or getting their voice heard, we hope that our solution provides a stepping stone to mending that
+    relationship and a foundation for collaboration!
