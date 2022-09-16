@@ -1,4 +1,5 @@
 # Parent Connect
+## Official winner of the 2022 ShellHacks Hackathon First-Time Hacker Competiton
 ### Currently deployed via Vercel; [Click here](https://parent-connect.vercel.app/) to check it out!
 
 ![Header](https://i.ibb.co/0yRPqWd/parent-connect-header.jpg)
